@@ -1,0 +1,4 @@
+env/*
+/home/radhika/tutdjangoRest/tutorial/snippets/__pycache__/
+/home/radhika/tutdjangoRest/tutorial/tutorial/__pycache__/
+tutorial/snippets/migrations/__pycache__/
